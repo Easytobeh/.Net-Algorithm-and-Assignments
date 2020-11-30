@@ -10,13 +10,10 @@ namespace NewspaperVendor
     {
         static void Main(string[] args)
         {
-            int[][] paper = new int[][] { };
+            
         }
 
     
     }
-    class Newspapers
-    {
-        get
-    }
+   
 }
