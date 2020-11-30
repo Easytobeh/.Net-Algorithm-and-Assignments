@@ -1,0 +1,7 @@
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\LetterSearch\bin\Debug\LetterSearch.exe.config
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\LetterSearch\bin\Debug\LetterSearch.exe
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\LetterSearch\bin\Debug\LetterSearch.pdb
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\LetterSearch\obj\Debug\LetterSearch.csprojAssemblyReference.cache
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\LetterSearch\obj\Debug\LetterSearch.csproj.CoreCompileInputs.cache
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\LetterSearch\obj\Debug\LetterSearch.exe
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\LetterSearch\obj\Debug\LetterSearch.pdb

@@ -1,0 +1,7 @@
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\SumOfPositivePrime\bin\Debug\SumOfPositivePrime.exe.config
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\SumOfPositivePrime\bin\Debug\SumOfPositivePrime.exe
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\SumOfPositivePrime\bin\Debug\SumOfPositivePrime.pdb
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\SumOfPositivePrime\obj\Debug\SumOfPositivePrime.csprojAssemblyReference.cache
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\SumOfPositivePrime\obj\Debug\SumOfPositivePrime.csproj.CoreCompileInputs.cache
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\SumOfPositivePrime\obj\Debug\SumOfPositivePrime.exe
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\SumOfPositivePrime\obj\Debug\SumOfPositivePrime.pdb

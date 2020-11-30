@@ -1,0 +1,7 @@
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\SumOfNumbersIsThirty\bin\Debug\SumOfNumbersIsThirty.exe.config
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\SumOfNumbersIsThirty\bin\Debug\SumOfNumbersIsThirty.exe
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\SumOfNumbersIsThirty\bin\Debug\SumOfNumbersIsThirty.pdb
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\SumOfNumbersIsThirty\obj\Debug\SumOfNumbersIsThirty.csproj.CoreCompileInputs.cache
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\SumOfNumbersIsThirty\obj\Debug\SumOfNumbersIsThirty.exe
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\SumOfNumbersIsThirty\obj\Debug\SumOfNumbersIsThirty.pdb
+C:\Users\OloruntobiJunaid\source\repos\AlgorithmWeek3\SumOfNumbersIsThirty\obj\Debug\SumOfNumbersIsThirty.csprojAssemblyReference.cache
